@@ -4,4 +4,4 @@ A service to build semantic models of your datasets. Currently deployed at: http
 
 * [Demo](./demo.ipynb)
 * [API Documentation](./docs/api.md)
-* [Example inputs](./examples)
+* [Example datasets](./examples)
