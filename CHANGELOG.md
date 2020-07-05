@@ -1,0 +1,1 @@
+* 2020-07-04: API (v1.1) now returns a list of semantic models instead of just one best semantic model. It also returns a list of semantic types for each column in the data sources.
