@@ -1,4 +1,4 @@
-Country Name,,"Population, total","Life expectancy at birth, total (years)","GNI per capita, Atlas method (current US$)",GDP (current US$),CO2 emissions (metric tons per capita)
+Country Name,Year,"Population, total","Life expectancy at birth, total (years)","GNI per capita, Atlas method (current US$)",GDP (current US$),CO2 emissions (metric tons per capita)
 Ethiopia,1960,22151278,38.419,,,0.0158921756117187
 Ethiopia,1961,22671191,39.082,,,0.0150424827703141
 Ethiopia,1962,23221389,39.711,,,0.0170547937507097
